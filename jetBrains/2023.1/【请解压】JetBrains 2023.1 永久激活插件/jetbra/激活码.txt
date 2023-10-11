@@ -1,0 +1,27 @@
+↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+请使用此教程：https://blog.ppxm.cn/archives/1680168904464
+教程以IDEA作为示例，其他工具操作方式类似；
+↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
+
+》》》 注意！！！注意！！！注意！！！《《《
+》》》 以下为不同工具的激活码下载地址，请根据个人使用的工具进行下载《《《
+》》》 激活码需要配合ja-netfilter一起使用，单独使用会提示无效《《《《
+
+激活码不定期更新，失效后可随时来获取最新的激活码
+IntelliJ IDEA 激活码下载地址：https://img.bearmiao.com/code/idea.zip
+PhpStorm 激活码下载地址：https://img.bearmiao.com/code/phpstorm.zip
+AppCode 激活码下载地址：https://img.bearmiao.com/code/appcode.zip
+DataGrip 激活码下载地址：https://img.bearmiao.com/code/datagrip.zip
+RubyMine 激活码下载地址：https://img.bearmiao.com/code/rubymine.zip
+WebStorm 激活码下载地址：https://img.bearmiao.com/code/webstorm.zip
+Rider 激活码下载地址：https://img.bearmiao.com/code/rider.zip
+CLion 激活码下载地址：https://img.bearmiao.com/code/clion.zip
+PyCharm 激活码下载地址：https://img.bearmiao.com/code/pycharm.zip
+GoLand 激活码下载地址：https://img.bearmiao.com/code/goland.zip
+DataSpell 激活码下载地址：https://img.bearmiao.com/code/dataspell.zip
+dotCover 激活码下载地址：https://img.bearmiao.com/code/dotcover.zip
+dotTrace 激活码下载地址：https://img.bearmiao.com/code/dottrace.zip
+dotMemory 激活码下载地址：https://img.bearmiao.com/code/dotmemory.zip
+
+更多激活方式，可关注公众号：码叔Java   回复关键词【idea】即可免费获取；
+有任何问题，可添加微信交流：unclecode1024
