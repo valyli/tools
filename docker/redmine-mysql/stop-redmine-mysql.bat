@@ -1,0 +1,1 @@
+docker-compose -f redmine-mysql-compose.yml down

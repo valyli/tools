@@ -1,0 +1,24 @@
+version: '3.1'
+
+services:
+
+  redmine:
+    depends_on:
+      - db
+    image: redmine:5.1.2
+    restart: always
+    ports:
+      - 3000:3000
+    environment:
+      REDMINE_DB_MYSQL: db
+      REDMINE_DB_PASSWORD: 111111
+      REDMINE_SECRET_KEY_BASE: supersecretkey
+
+  db:
+    image: mysql:8.0
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 111111
+      MYSQL_DATABASE: redmine
+    volumes:
+      - E:\docker\volume\redmine-mysql:/var/lib/mysql
