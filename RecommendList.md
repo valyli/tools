@@ -27,6 +27,9 @@ Vedio Editor
 # Server
 ## [putty](https://www.putty.org/)
 
+## [HFS](https://www.rejetto.com/hfs/)
+* [releases](https://github.com/rejetto/hfs/releases)
+
 # Finance
 ## [futu](https://www.futunn.com/en/)
 
