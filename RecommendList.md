@@ -17,6 +17,7 @@
 ## [ImageGlass](https://imageglass.org/)
 
 ## [OpenShot](https://www.openshot.org/download/)
+Vedio Editor
 
 ## [PicView](https://picview.org/)
 
@@ -32,3 +33,5 @@
 # Libs
 ## [vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
+# Dev
+## 
