@@ -7,8 +7,13 @@
 
 ## [Free Download Manager](https://www.freedownloadmanager.org/)
 
+# Git
+## [Fork](https://git-fork.com/)
+
 # Editor
 ## [Notepad++](https://notepad-plus-plus.org/)
+## [Visual Studio Code](https://code.visualstudio.com/)
+
 
 # Book Reader
 ## [calibre-ebook](https://calibre-ebook.com/)
