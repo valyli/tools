@@ -22,6 +22,7 @@
 ## [ImageGlass](https://imageglass.org/)
 
 ## [OpenShot](https://www.openshot.org/download/)
+Vedio Editor
 
 ## [PicView](https://picview.org/)
 
@@ -31,9 +32,14 @@
 # Server
 ## [putty](https://www.putty.org/)
 
+## [HFS](https://www.rejetto.com/hfs/)
+* [releases](https://github.com/rejetto/hfs/releases)
+
 # Finance
 ## [futu](https://www.futunn.com/en/)
 
 # Libs
 ## [vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe)
 
+# Dev
+## 
